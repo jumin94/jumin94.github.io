@@ -1,0 +1,4 @@
+# Built site (GitHub builds it for you)
+docs/
+.DS_Store
+__pycache__/

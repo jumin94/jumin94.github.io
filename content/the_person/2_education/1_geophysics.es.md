@@ -1,0 +1,4 @@
+---
+title: Geofísica: ver lo que no se ve
+---
+Mi primer lenguaje científico fue la geofísica. En La Plata (el Obser, para los amigos) aprendí a inferir lo que hay kilómetros bajo nuestros pies a partir de lo que podemos medir en la superficie. Para mi tesis modelé la litósfera marina del margen pasivo argentino a partir de datos de gravedad. Muchas estructuras distintas pueden producir la misma señal, así que cada respuesta depende de los supuestos que elijas. Esa lección nunca me dejó: el modelado directo se sentía un poco como inventar cosas hasta que parecieran funcionar. Amé la experiencia, pero no me gustaba el enfoque. A veces la ciencia tiene menos que ver con la certeza que con explicitar lo que suponés... Si hubiera sabido de inversión bayesiana en ese momento. ¡¿Por qué no enseñan inversión bayesiana en la carrera de Geofísica?!

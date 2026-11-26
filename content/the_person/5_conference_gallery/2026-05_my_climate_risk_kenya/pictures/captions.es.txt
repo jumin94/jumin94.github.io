@@ -1,0 +1,16 @@
+01_panel_building-ethical-foundations-for-people-centered-climate-science.jpg: Panel: bases éticas para una ciencia del clima centrada en las personas
+02_on-stage-in-conversation.jpg: Conversando en el escenario
+03_the-ICPAC-situation-room.jpg: La sala de situación del ICPAC
+04_climate-monitoring-screens-at-ICPAC.jpg: Pantallas de monitoreo climático en el ICPAC
+05_farm-visit.jpg: Visita a una chacra
+06_beehives.jpg: Colmenas
+07_lake-shore.jpg: La orilla del lago
+08_waterbuck-grazing.jpg: Antílopes acuáticos pastando
+09_a-giraffe.jpg: Una jirafa
+10_evening-by-the-water.jpg: Atardecer junto al agua
+11_African-starling-visiting-us-at-breakfast.jpg: Un estornino africano que nos visitó en el desayuno
+12_painted-map.jpg: Un mapa pintado
+13_Hells-gate!.jpg: ¡Hell's Gate!
+14_zebras-below-the-cliffs.jpg: Cebras al pie de los acantilados
+15_a-curious-neighbor.jpg: Un vecino curioso
+99_pavilion.jpg: Pabellón

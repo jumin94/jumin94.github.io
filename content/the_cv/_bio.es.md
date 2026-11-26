@@ -1,0 +1,3 @@
+¡Hola! Soy una climatóloga argentina y trabajo sobre **variabilidad y cambio climático regional**, sobre todo en el hemisferio sur. Uso *storylines* (narrativas físicas), **inferencia causal** y herramientas estadísticas para entender qué podemos decir y qué no sobre el clima futuro, y para convertir eso en información que le sirva a la gente.
+
+Me formé como geofísica en La Plata e hice el doctorado en Ciencias de la Atmósfera y los Océanos en la Universidad de Buenos Aires, con codirección desde Reading. Hoy soy becaria Marie Skłodowska-Curie en Leipzig e investigadora principal del proyecto FUTURA, de Horizonte Europa.

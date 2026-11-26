@@ -1,0 +1,4 @@
+---
+title: Geophysics: seeing what cannot be seen
+---
+My first scientific language was geophysics, which is a bit of maths mixed with a bit of physics to understand mainly the world that people think is only studied by geologists (and maybe meteorologists). In La Plata (*el Obser para los amigos*) I learned to infer what lies kilometers below our feet from what we can measure at the surface. For my thesis I modeled the marine lithosphere of the Argentine passive margin from gravity data. Many different structures can produce the same signal, so every answer depends on the assumptions you choose. That lesson never left me: direct modeling felt a bit like making things up until they appear to work. I loved the experience, but I didn't like the approach. Sometimes science is less about certainty than about being explicit about what you assume... If only I had known about Bayesian inversion then. Why don't they teach Bayesian inversion in Geophysics degrees!?
