@@ -8,3 +8,5 @@ This section just aims to make everything that's behind the CV equally visible. 
 I'm also a migrant from South America living in Germany, and I have moved around a lot in my life. In this section I'm sharing some of these experiences in the hope that some of these stories will be useful to someone else going through similar things.
 
 Feel free to contact me at [julia.mindlin@uni-leipzig.de](mailto:julia.mindlin@uni-leipzig.de)!
+
+(or [jumi94@gmail.com](mailto:jumi94@gmail.com) - currently the Leipzig email is not working)
